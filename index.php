@@ -93,7 +93,7 @@
       
       <!--logo--><img src="img/fonatur_logo.png" alt="Hero Imgs" width="45%">
       <h1 style="font-size: 1.5em;">Bienvenidos </h1>
-      <div style="font-size:1.1em; text-align: justify; margin-right: 65px;margin-left: 52px;color: black; font-weight: bolder; background-color:rgba(236,232,232, 0.4);">
+      <div style="font-size:1.2em; text-align: center; margin-right: 65px;margin-left: 52px;color: black; font-weight: bolder; background-color:rgba(236,232,232, 0.4); font-family:Comic Sans;">
 El Fondo Nacional de Fomento al Turismo en convenio con el H. XIII Ayuntamiento Zihuatanejo de Azueta se encuentra realizando el presente Plan Parcial de Desarrollo Urbano. 
 
         <br><br></div>

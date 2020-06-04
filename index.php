@@ -91,16 +91,16 @@
     <div class="hero-container">
       
       
-      <!--logo--><img src="img/fonatur_logo.jpeg" alt="Hero Imgs" width="45%">
+      <!--logo--><img src="img/fonatur_logo.png" alt="Hero Imgs" width="45%">
       <h1 style="font-size: 1.5em;">Bienvenidos </h1>
-      <div style="font-size:1.1em; text-align: justify; margin-right: 65px;margin-left: 52px;">
+      <div style="font-size:1.1em; text-align: justify; margin-right: 65px;margin-left: 52px;color: black; font-weight: bolder; background-color:rgba(236,232,232, 0.4);">
 El Fondo Nacional de Fomento al Turismo en convenio con el H. XIII Ayuntamiento Zihuatanejo de Azueta se encuentra realizando el presente Plan Parcial de Desarrollo Urbano. 
 
         <br><br></div>
-      <div class="btns">
-        <a href="#"><i class="fa fa-facebook fa-3x"></i> @ppduixtapa</a>
-        <a href="#"><i class="fa fa-twitter fa-3x"></i> @ppduixtapa</a>
-        <a href="#"><i class="fa fa-instagram fa-3x"></i> @ppduixtapa</a>
+      <div class="btns" >
+        <a href="#" style="color: white; font-weight: bolder;"><i class="fa fa-facebook fa-3x" style="color: white; font-weight: bolder;"></i> @ppduixtapa</a>
+        <a href="#" style="color: white; font-weight: bolder;"><i class="fa fa-twitter fa-3x" style="color: white; font-weight: bolder;"></i> @ppduixtapa</a>
+        <a href="#" style="color: white; font-weight: bolder;"><i class="fa fa-instagram fa-3x" style="color: white; font-weight: bolder;"></i> @ppduixtapa</a>
       </div>
     </div>
   </section><!-- #hero -->
@@ -244,23 +244,7 @@ El Fondo Nacional de Fomento al Turismo en convenio con el H. XIII Ayuntamiento 
           </div>
 
 
-           <div class="col-lg-12 wow fadeInUp pt-4 pt-lg-0 order-2 order-lg-1">
-                        
-                 <table class="table">
-            <thead>
-            <tr>
-            <th scope="col" style="background-color:#b4c7e7; text-align: left;vertical-align: middle;">¿QUÉ ES UN PLAN PARCIAL?</th>
-            </tr>
-            </thead>
-            <tbody>
-            <tr>
-            <td>Es un instrumento de planeación, que permite el ordenamiento territorial de acuerdo con las condiciones y características particulares de un territorio determinado dentro de un Municipio., Los planes y programas municipales de desarrollo urbano señalarán las acciones específicas necesarias para la conservación, mejoramiento, rehabilitación y crecimiento de los centros de población; asimismo, establecerán la zonificación correspondiente, derivado del Plan Director de Desarrollo Urbano y utilizado para el Centro Integralmente Planeado de FONATUR.
- </td>
-            </tr>
-            </tbody>
-            </table>
-           
-          </div>
+       
        
       </div>
     </section><!-- End Features Section -->
@@ -298,20 +282,20 @@ El Fondo Nacional de Fomento al Turismo en convenio con el H. XIII Ayuntamiento 
 	 <h2>Etiam mollis odio id diam dictum, quis gravida massa tristique</h2>
   	<div class="grid">
           <figure class="effect-marley">
-						<img src="img/lorem4.png" alt="img02"/>
+						<img src="img/Atractivo turístico.jpg" alt="img02"/>
 						<figcaption>
-							<h2>Suspendisse  <span> 1 </span></h2>
-							<p style="color:white;">Suspendisse vitae nulla non sem consequat tincidunt. </p>
+							<h2>Atractivo turístico  <span>  </span></h2>
+							<p style="color:white;">Atractivo turístico </p>
 							
 						</figcaption>			
 					</figure>
 
 
 						<figure class="effect-marley">
-						<img src="img/lorem4.png" alt="img11"/>
+						<img src="img/Ciclopista.jpg" alt="img11"/>
 						<figcaption>
-							<h2>Suspendisse <span>2</span></h2>
-							<p style="color:white;">Suspendisse vitae nulla non sem consequat tincidunt..</p>
+							<h2>Ciclopista <span></span></h2>
+							<p style="color:white;">Ciclopista</p>
 							
 					</figure>
 
@@ -319,36 +303,36 @@ El Fondo Nacional de Fomento al Turismo en convenio con el H. XIII Ayuntamiento 
 
   	   <div class="grid">
 					<figure class="effect-milo">
-						<img  src="img/lorem4.png" width="50%" alt="img11"/>
+						<img  src="img/Manglar.jpg" width="50%" alt="img11"/>
 						<figcaption>
-							<h2>Suspendisse <span>3</span></h2>
-							<p style="color:white;">Phasellus sed lacus turpis. </p>
+							<h2>Manglar <span></span></h2>
+							<p style="color:white;">Manglar. </p>
 						
 						</figcaption>			
 					</figure>
 					<figure class="effect-milo">
-						<img src="img/lorem4.png" alt="img03"/>
+						<img src="img/Movilidad.jpg" alt="img03"/>
 						<figcaption>
-							<h2>Suspendisse <span> 4</span></h2>
-							<p style="color:white;">Nam tristique a nisi et viverra. Nullam ultricies egestas turpis, non posuere metus vestibulum vel. Curabitur in velit risus.</p>
+							<h2>Movilidad <span> </span></h2>
+							<p style="color:white;">Movilidad</p>
 						
 						</figcaption>			
 					</figure>
 		</div>
 		 <div class="grid">
 					<figure class="effect-milo">
-						<img  src="img/lorem4.png" width="50%" alt="img11"/>
+						<img  src="img/Visión.jpg" width="50%" alt="img11"/>
 						<figcaption>
-							<h2>Maecenas <span>5</span></h2>
-							<p style="color:white;">Maecenas laoreet congue leo et auctor.</p>
+							<h2>Visión <span></span></h2>
+							<p style="color:white;">Visión</p>
 						
 						</figcaption>			
 					</figure>
 					<figure class="effect-milo">
-						<img src="img/lorem4.png" alt="img03"/>
+						<img src="img/Vivienda.jpg" alt="img03"/>
 						<figcaption>
-							<h2>Maecenas <span> 6</span></h2>
-							<p style="color:white;">Maecenas laoreet congue leo et auctor.</p>
+							<h2>Vivienda <span> </span></h2>
+							<p style="color:white;">Vivienda.</p>
 						
 						</figcaption>			
 					</figure>
@@ -362,39 +346,12 @@ El Fondo Nacional de Fomento al Turismo en convenio con el H. XIII Ayuntamiento 
  <h2>Sondeo Encuesta De PPDU Ixtapa</h2>
    <div>
   	 <p>
-			 <form accept-charset="utf-8" method="post" id="formdata">
-                <div class="form-group">        
-        <input type="radio" name="optradio1" value="a" class="funkyradio-default">
-        <label  for="materialGroupExample1.1">a) Aliquam id orci convallis</label><br>
-        <input type="radio" name="optradio1" value="b">
-        <label  for="materialGroupExample1.2">b) Etiam bibendum</label><br>
-        <input type="radio" name="optradio1" value="c">
-        <label  for="materialGroupExample1.3">c) Duis vulputat</label><br>
-        <input type="radio" name="optradio1" value="d">
-        <label  for="materialGroupExample1.4">d) Maecenas </label><br>
-        <input type="radio" name="optradio1" value="e">
-        <label  for="materialGroupExample1.5">e) eleifend </label><br>
-         <input type="radio" name="optradio1" value="f">
-        <label  for="materialGroupExample1.6">f) viverra </label><br>
-         <input type="radio" name="optradio1" value="g">
-        <label  for="materialGroupExample1.7">g) Fusce </label><br>
-         <input type="radio" name="optradio1" value="h">
-        <label  for="materialGroupExample1.8">h) Nam commod</label><br>
-         <input type="radio" name="optradio1" value="i">
-        <label  for="materialGroupExample1.9">i) commodo</label><br>
-         <input type="radio" name="optradio1" value="j">
-        <label  for="materialGroupExample1.10">j) ultricies</label><br>
-        <input type="radio" name="optradio1" value="k">
-        <label  for="materialGroupExample1.11">k) Etiam </label><br>
-        <input type="radio" name="optradio1" value="l">
-        <label  for="materialGroupExample1.12">l) Morbi </label>
+			<button type="button" class="btn btn-success" onclick="cargarDiv('#encdiv','encuesta1.php')">Aspectos sociodemográficos</button>
+<button type="button" class="btn btn-success" onclick="cargarDiv('#encdiv','encuesta2.php')">Encuesta sobre vivienda vacacional</button>
+<hr>
+<div id="encdiv"></div>
 
-
-  <br><br>
-  <center><input type="button"  class="btn btn-primary mb-2" id="botonenviar" value="Enviar"/></center>
-                </div>          
-            
-          </form>
+</div>
   	 </p>
    </div> 
 </div>
@@ -408,8 +365,7 @@ El Fondo Nacional de Fomento al Turismo en convenio con el H. XIII Ayuntamiento 
 
 	 	 	 <header class="section-header">
           <h3>Partipa en tu PPDU</h3>
-          <p class="letrasoff4">Etiam mollis odio id diam dictum, quis gravida massa tristique. Maecenas laoreet congue leo et auctor. Etiam bibendum urna non ex efficitur, et varius nulla rhoncus.
-          </p><br><br>
+          <br><br>
         </header>
 
         <div class="row">
@@ -420,7 +376,7 @@ El Fondo Nacional de Fomento al Turismo en convenio con el H. XIII Ayuntamiento 
               <p class="description">
               Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet risus eget libero placerat congue sit amet eu nisi. Vestibulum porta suscipit est, nec fringilla nunc. Donec finibus ligula urna, eget interdum justo consectetur at. 
               <br>
-            <strong style="font-weight: bold">12 Mayo 2020 11:00 AM</strong> </p>
+            <strong style="font-weight: bold">WEBINAR</strong> </p>
             </div>
           </div>
 		
@@ -467,7 +423,7 @@ El Fondo Nacional de Fomento al Turismo en convenio con el H. XIII Ayuntamiento 
               <p class="description">
                 Etiam mollis odio id diam dictum, quis gravida massa tristique. Maecenas laoreet congue leo et auctor. Etiam bibendum urna non ex efficitur, et varius nulla rhoncus
                  <br>
-                  <strong style="font-weight: bold">15 Mayo 2020 11:00 AM</strong>
+                  <strong style="font-weight: bold">WEBINAR</strong>
               </p>
             </div>
 
@@ -516,7 +472,7 @@ El Fondo Nacional de Fomento al Turismo en convenio con el H. XIII Ayuntamiento 
               <p class="description">
                Etiam mollis odio id diam dictum, quis gravida massa tristique. Maecenas laoreet congue leo et auctor. Etiam bibendum urna non ex efficitur, et varius nulla rhoncus
                  <br>
-                  <strong style="font-weight: bold">16 Mayo abr 2020 11:00 AM</strong>
+                  <strong style="font-weight: bold">WEBINAR</strong>
               </p>
             </div>
 
@@ -569,12 +525,7 @@ El Fondo Nacional de Fomento al Turismo en convenio con el H. XIII Ayuntamiento 
   <!--PARTICIPACION-->
   <section class="participacion has-padding text-center" id="participacion">
 
-<button type="button" class="btn btn-success" onclick="cargarDiv('#encdiv','encuesta1.php')">Aspectos sociodemográficos</button>
-<button type="button" class="btn btn-success" onclick="cargarDiv('#encdiv','encuesta2.php')">Encuesta sobre vivienda vacacional</button>
-<hr>
-<div id="encdiv"></div>
 
-</div>
   </section>
   <!--PARTICIPACION-->
   <!--//////-->
@@ -748,7 +699,7 @@ El Fondo Nacional de Fomento al Turismo en convenio con el H. XIII Ayuntamiento 
 
     
     <div class="form-group row">
-    <label for="Email" class="col-sm-2 col-form-label" >Correo Electronicor </label>
+    <label for="Email" class="col-sm-2 col-form-label" >Correo Electrónico </label>
     <div class="col-sm-10">
     <input type="text" class="form-control letrasoff"  id="Email" name="Email">
     </div>
@@ -781,9 +732,9 @@ El Fondo Nacional de Fomento al Turismo en convenio con el H. XIII Ayuntamiento 
         <div class="col-md-4">
         <br><br><br><br><br>
         <p class="letrasoff2">
-        Suspendisse eget molestie  <br>
-         Aliquam dolor ipsum, ornare a eros C.P. 15598<br>
-        tristique vitae : (555) 12345 | (789) 1011 1011<br>
+         <br>
+        Correo: <br>
+        Teléfono:  <br>
         
         
 

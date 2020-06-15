@@ -62,15 +62,18 @@
         <!-- Uncomment below if you prefer to use an image logo 
         <h1><a href="#body" class="scrollto"><span>e</span>Startup</a></h1>
         -->
-        <!-- <a href="#body"><img src="img/logo.png" alt="" title="" /></a>-->
+        <a href="https://www.gob.mx/fonatur" target="_blank"><img src="img/fonatur_cabecera.png" width="22%" /></a>
+        <a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+        <a href="https://zihuatanejodeazueta.gob.mx" target="_blank"><img src="img/zighua.png" width="10%" /></a>
        
       </div>
 
       <nav id="nav-menu-container">
+
         <ul class="nav-menu">
-          <li ><a href="#get-started"> ¿Qué es un PPDU Ixtapa? </a></li>
+          <li ><a href="#get-started">¿Qué es el PPDU Ixtapa?</a></li>
            <li><a href="#about2"> Vision</a></li>
-          <li><a  href="#comotemueves" for="example-element-toggle" id="accionar"> Sondeo: encuestas de PPDU Ixtapa</a></li>
+          <li><a  href="#comotemueves" for="example-element-toggle" id="accionar"> Sondeos</a></li>
           <li><a  href="#mejoremos"> Participa en tu PPDU </a></li>
           <li><a  href="#participacion"> Aporta </a></li>
           <li><a  href="#noticias">¡Infórmate más!</a></li>              
@@ -93,8 +96,8 @@
       
       <!--logo--><img src="img/fonatur_logo.png" alt="Hero Imgs" width="45%">
       <h1 style="font-size: 1.5em;">Bienvenidos </h1>
-      <div style="font-size:1.2em; text-align: center; margin-right: 65px;margin-left: 52px;color: black; font-weight: bolder; background-color:rgba(236,232,232, 0.4); font-family:Comic Sans;">
-El Fondo Nacional de Fomento al Turismo en convenio con el H. XIII Ayuntamiento Zihuatanejo de Azueta se encuentra realizando el presente Plan Parcial de Desarrollo Urbano. 
+      <div style="font-size:1.2em; text-align: center; margin-right: 65px;margin-left: 52px;color: black; font-weight: bolder; background-color:rgba(236,232,232, 0.4); font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';"">
+El Fondo Nacional de Fomento al Turismo en convenio con el H.Ayuntamiento Zihuatanejo de Azueta se encuentra realizando el presente Plan Parcial de Desarrollo Urbano. 
 
         <br><br></div>
       <div class="btns" >
@@ -112,14 +115,18 @@ El Fondo Nacional de Fomento al Turismo en convenio con el H. XIII Ayuntamiento 
       <div class="container">
 
         <div class="row feature-item">
-          <div class="col-lg-6 wow fadeInUp">
-            <img src="img/fonatur_logo.jpeg"  width="95%" alt="">
-          </div>
-          <div class="col-lg-6 wow fadeInUp pt-5 pt-lg-0">
+         
+          <div class="col-lg-12 wow fadeInUp pt-5 pt-lg-0">
             <br><br>
             <h4>¿QUÉ ES UN PLAN PARCIAL DE DESARROLLO URBANO?</h4>
             <p class="letrasoff" >
-          Es un instrumento de planeación, que permite el ordenamiento territorial de acuerdo con las condiciones y características particulares de un territorio determinado dentro de un Municipio., Los planes y programas municipales de desarrollo urbano señalarán las acciones específicas necesarias para la conservación, mejoramiento, rehabilitación y crecimiento de los centros de población; asimismo, establecerán la zonificación correspondiente, derivado del Plan Director de Desarrollo Urbano y utilizado para el Centro Integralmente Planeado de FONATUR. 
+            Es un instrumento de planeación que permite el ordenamiento territorial con base en las
+            condiciones y características particulares de un territorio determinado dentro de un
+            municipio. Los planes y programas municipales de desarrollo urbano señalarán las
+            acciones específicas necesarias para la conservación, mejoramiento, rehabilitación y
+            crecimiento de los centros de población; asimismo, establecerán la zonificación
+            correspondiente, derivado del Plan Director de Desarrollo Urbano y utilizado para el
+            Centro Integralmente Planeado de FONATUR.
 
             </p>
             <h4>FUNDAMENTO JURÍDICO</h4>
@@ -142,12 +149,14 @@ El Fondo Nacional de Fomento al Turismo en convenio con el H. XIII Ayuntamiento 
                <table class="table">
             <thead>
             <tr>
-            <th scope="col" style="background-color:#b4c7e7;color: white; text-align: center;vertical-align: middle;">Constitución política del Estado Libre y Soberano de Guerrero </th>
+            <th scope="col" style="background-color:#b4c7e7;color: white; text-align: center;vertical-align: middle;">Constitución política del Estado Libre y Soberano de Guerrero</th>
             </tr>
             </thead>
             <tbody>
             <tr>
-            <td>Art 179. Los Ayuntamientos En el ámbito de sus respectivas competencias, están facultados para intervenir en la planeación del desarrollo regional </td>
+            <td>Art 179. Los ayuntamientos, en el ámbito de sus respectivas competencias, están
+facultados para intervenir en la planeación del desarrollo regional.
+ </td>
             </tr>
             </tbody>
             </table>
@@ -163,22 +172,36 @@ El Fondo Nacional de Fomento al Turismo en convenio con el H. XIII Ayuntamiento 
                <table class="table">
             <thead>
             <tr>
-            <th scope="col" colspan="3" style="background-color:white;color:#2e75b6; text-align: center;vertical-align: middle;">Ley General de Asentamientos Humanos Ordenamiento Territorial y Desarrollo Urbano
+            <th scope="col" colspan="3" style="background-color:white;color:#2e75b6; text-align: center;vertical-align: middle;">Ley General de Asentamientos Humanos Ordenamiento Territorial y Desarrollo
+Urbano
 </th>
             </tr>
             </thead>
             <tbody>
             <tr>
-            <td cope="col">Art. 11: Faculta a los municipios para formular planes y programas de desarrollo urbano y ordenamiento territorial, centros de población y otros derivados de estos. </td>
-            <td cope="col">Art. 22: La planeación derivada de esta ley forma parte del SNPD </td>
-            <td cope="col">Art. 23 La planeación del ordenamiento del territorio se llevará a cabo a través de F.V. Los planes o programas de Desarrollo Urbano derivados tales como los parciales
+            <td cope="col">Art. 11: Faculta a los municipios
+para formular planes y programas
+de desarrollo urbano y
+ordenamiento territorial, centros de
+población y otros derivados de
+estos. </td>
+            <td cope="col">Art. 22: La
+planeación
+derivada de
+esta ley forma
+parte del
+SNPD.</td>
+            <td cope="col">Art. 23: La planeación del
+ordenamiento del territorio se llevará
+a cabo a través de F.V. Los planes o
+programas de Desarrollo Urbano
+derivados, tales como los parciales.
             
             </td>
             </tr>
             <tr>
               <th scope="col" colspan="3" style="background-color:white;color:#2e75b6; text-align: center;vertical-align: middle;">
-                Ley Número 994 de Planeación del Estado Libre y Soberano de Guerrero 
-
+               Ley Número 994 de Planeación del Estado Libre y Soberano de Guerrero
 </th>
             </tr>
             </tbody>
@@ -199,12 +222,14 @@ El Fondo Nacional de Fomento al Turismo en convenio con el H. XIII Ayuntamiento 
             <table sty width="40%" style="text-align: center;vertical-align: middle;">
   <thead>
     <tr>
-      <th scope="col" style="background-color: #70ad47;">Sistema de Planeación Democrática del Desarrollo Nacional</th>
+      <th scope="col" style="background-color: #70ad47;">
+        Sistema de Planeación Democrática del Desarrollo Nacional
+      </th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <th scope="row">CPEUM Art.26</th>
+      <th scope="row">CPEUM Art. 26</th>
 
     </tr>
     <tr>
@@ -212,14 +237,14 @@ El Fondo Nacional de Fomento al Turismo en convenio con el H. XIII Ayuntamiento 
 
     </tr>
     <tr>
-      <th scope="row">Ley Número 994 de Planeación  del Estado Libre y Soberano de Guerrero Art. 24</th>
+      <th scope="row">Ley Número 994 de Planeación del Estado Libre y Soberano de Guerrero Art. 24</th>
     </tr>
        <tr>
       <th scope="row" style="background-color: #c5e0b4;">Sistema Municipal de Planeación</th>
 
     </tr>
     <tr>
-      <th scope="row" >Ley Número 994 de Planeación  del Estado Libre y Soberano de Guerrero Art. 30</th>
+      <th scope="row" >Ley Número 994 de Planeación del Estado Libre y Soberano de Guerrero Art. 30</th>
     </tr>
   </tbody>
 </table>
@@ -262,8 +287,8 @@ El Fondo Nacional de Fomento al Turismo en convenio con el H. XIII Ayuntamiento 
           <div class="col-12">
             <div class="about2-content">
               <h2>Visión</h2>
-             <br>
-              <center><img src="img/vision.jpeg" width="35%" alt=""></center>
+             
+              <center><img src="img/vision.jpeg" width="55%" alt=""></center>
               <br>
               <p class="letrasoff">Ut suscipit, enim in rutrum auctor, elit neque varius mi, sed eleifend orci dui eget mi. Donec auctor consectetur arcu, non suscipit orci dictum at. Cras enim sapien, venenatis ac sodales id, viverra ut mauris. Vivamus laoreet, nisi in fermentum feugiat, dolor nibh cursus ligula, hendrerit tristique nisi lectus a mauris.
                 <br><br>
@@ -282,7 +307,7 @@ El Fondo Nacional de Fomento al Turismo en convenio con el H. XIII Ayuntamiento 
 	 <h2>Etiam mollis odio id diam dictum, quis gravida massa tristique</h2>
   	<div class="grid">
           <figure class="effect-marley">
-						<img src="img/Atractivo turístico.jpg" alt="img02"/>
+						<img src="img/Atractivo-turístico2.jpg" alt="img02"/>
 						<figcaption>
 							<h2>Atractivo turístico  <span>  </span></h2>
 							<p style="color:white;">Atractivo turístico </p>
@@ -292,7 +317,7 @@ El Fondo Nacional de Fomento al Turismo en convenio con el H. XIII Ayuntamiento 
 
 
 						<figure class="effect-marley">
-						<img src="img/Ciclopista.jpg" alt="img11"/>
+						<img src="img/Ciclopista2.jpg" alt="img11"/>
 						<figcaption>
 							<h2>Ciclopista <span></span></h2>
 							<p style="color:white;">Ciclopista</p>
@@ -303,7 +328,7 @@ El Fondo Nacional de Fomento al Turismo en convenio con el H. XIII Ayuntamiento 
 
   	   <div class="grid">
 					<figure class="effect-milo">
-						<img  src="img/Manglar.jpg" width="50%" alt="img11"/>
+						<img  src="img/Manglar2.jpg" width="50%" alt="img11"/>
 						<figcaption>
 							<h2>Manglar <span></span></h2>
 							<p style="color:white;">Manglar. </p>
@@ -311,7 +336,7 @@ El Fondo Nacional de Fomento al Turismo en convenio con el H. XIII Ayuntamiento 
 						</figcaption>			
 					</figure>
 					<figure class="effect-milo">
-						<img src="img/Movilidad.jpg" alt="img03"/>
+						<img src="img/Movilidad2.jpg" alt="img03"/>
 						<figcaption>
 							<h2>Movilidad <span> </span></h2>
 							<p style="color:white;">Movilidad</p>
@@ -321,7 +346,7 @@ El Fondo Nacional de Fomento al Turismo en convenio con el H. XIII Ayuntamiento 
 		</div>
 		 <div class="grid">
 					<figure class="effect-milo">
-						<img  src="img/Visión.jpg" width="50%" alt="img11"/>
+						<img  src="img/Visión2.jpg" width="50%" alt="img11"/>
 						<figcaption>
 							<h2>Visión <span></span></h2>
 							<p style="color:white;">Visión</p>
@@ -329,7 +354,7 @@ El Fondo Nacional de Fomento al Turismo en convenio con el H. XIII Ayuntamiento 
 						</figcaption>			
 					</figure>
 					<figure class="effect-milo">
-						<img src="img/Vivienda.jpg" alt="img03"/>
+						<img src="img/Vivienda2.jpg" alt="img03"/>
 						<figcaption>
 							<h2>Vivienda <span> </span></h2>
 							<p style="color:white;">Vivienda.</p>
@@ -342,19 +367,14 @@ El Fondo Nacional de Fomento al Turismo en convenio con el H. XIII Ayuntamiento 
   <!-- ======= NOSOTROS ======= -->
   <!--COMO TE MUEVES-->
   <section id="comotemueves" class="padd-section text-center wow fadeInUp" >
-<div class="container">
- <h2>Sondeo Encuesta De PPDU Ixtapa</h2>
-   <div>
-  	 <p>
-			<button type="button" class="btn btn-success" onclick="cargarDiv('#encdiv','encuesta1.php')">Aspectos sociodemográficos</button>
-<button type="button" class="btn btn-success" onclick="cargarDiv('#encdiv','encuesta2.php')">Encuesta sobre vivienda vacacional</button>
+ <h2>Sondeos Encuesta De PPDU Ixtapa</h2><br>
+			<button type="button" class="btn btn-success" onclick="cargarDiv('#encdiv','encuesta1.php')">Aspectos sociodemográficos</button>&nbsp;&nbsp;&nbsp;
+<button type="button" class="btn btn-success" onclick="cargarDiv('#encdiv','encuesta2.php')">Encuesta sobre vivienda vacacional</button>&nbsp;&nbsp;&nbsp;
+<button type="button" class="btn btn-success" onclick="cargarDiv('#encdiv','encuesta3.php')">Encuesta de Movilidad</button>
 <hr>
 <div id="encdiv"></div>
 
-</div>
-  	 </p>
-   </div> 
-</div>
+
   </section>
 
   <!--COMO TE MUEVES-->
@@ -364,7 +384,7 @@ El Fondo Nacional de Fomento al Turismo en convenio con el H. XIII Ayuntamiento 
 	 	 <div class="container">
 
 	 	 	 <header class="section-header">
-          <h3>Partipa en tu PPDU</h3>
+          <h3>Participa en tu PPDU</h3>
           <br><br>
         </header>
 
@@ -611,7 +631,7 @@ El Fondo Nacional de Fomento al Turismo en convenio con el H. XIII Ayuntamiento 
   <!-- ======= Testimonials Section ======= -->
    <!-- ======= Testimonials Section ======= -->
     <section id="cabosemueve" class="padd-section text-center wow fadeInUp">
-      <h1>¡ Ixtapa Sostenible !</h1><br><br>
+      <h1 style="font-weight: bolder;">¡Ixtapa Sostenible!</h1><br><br>
       <div class="container">
         <div class="row justify-content-center">
 

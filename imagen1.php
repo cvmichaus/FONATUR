@@ -1,0 +1,1 @@
+<img src="img/Proceso-de-aprobacion2.png" width="100%" alt="">

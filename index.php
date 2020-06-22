@@ -95,8 +95,8 @@
       
       
       <!--logo--><img src="img/fonatur_logo.png" alt="Hero Imgs" width="45%">
-      <h1 style="font-size: 1.5em;">Bienvenidos </h1>
-      <div style="font-size:1.2em; text-align: center; margin-right: 65px;margin-left: 52px;color: black; font-weight: bolder; background-color:rgba(236,232,232, 0.4); font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';"">
+      <h1 style="font-size: 1.5em;color: #84c300; ">Bienvenidos </h1>
+      <div style="font-size:1.2em; text-align: center; margin-right: 65px;margin-left: 52px;color: black; font-weight: bolder; background-color:rgba(236,232,232, 0.4); font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';">
 El Fondo Nacional de Fomento al Turismo en convenio con el H.Ayuntamiento Zihuatanejo de Azueta se encuentra realizando el presente Plan Parcial de Desarrollo Urbano. 
 
         <br><br></div>
@@ -118,7 +118,7 @@ El Fondo Nacional de Fomento al Turismo en convenio con el H.Ayuntamiento Zihuat
          
           <div class="col-lg-12 wow fadeInUp pt-5 pt-lg-0">
             <br><br>
-            <h4>¿QUÉ ES UN PLAN PARCIAL DE DESARROLLO URBANO?</h4>
+            <h4 style="font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';">¿QUÉ ES UN PLAN PARCIAL DE DESARROLLO URBANO?</h4>
             <p class="letrasoff" >
             Es un instrumento de planeación que permite el ordenamiento territorial con base en las
             condiciones y características particulares de un territorio determinado dentro de un
@@ -129,18 +129,18 @@ El Fondo Nacional de Fomento al Turismo en convenio con el H.Ayuntamiento Zihuat
             Centro Integralmente Planeado de FONATUR.
 
             </p>
-            <h4>FUNDAMENTO JURÍDICO</h4>
+            <center><h4>FUNDAMENTO JURÍDICO</h4></center>
             <p >
                  
             <table class="table">
             <thead>
             <tr>
-            <th scope="col" style="background-color:#2e75b6;color: white; text-align: center;vertical-align: middle;">Constitución Política de los Estados Unidos Mexicanos</th>
+            <th scope="col" style="background-color:#00b9cf;color: white; text-align: center;vertical-align: middle;">Constitución Política de los Estados Unidos Mexicanos</th>
             </tr>
             </thead>
             <tbody>
             <tr>
-            <td>Art. 26: Establece el Sistema Nacional de  Planeación del Democrática (SNPD) </td>
+            <td><center>Art. 26: Establece el Sistema Nacional de  Planeación del Democrática (SNPD)</center> </td>
             </tr>
             </tbody>
             </table>
@@ -149,13 +149,13 @@ El Fondo Nacional de Fomento al Turismo en convenio con el H.Ayuntamiento Zihuat
                <table class="table">
             <thead>
             <tr>
-            <th scope="col" style="background-color:#b4c7e7;color: white; text-align: center;vertical-align: middle;">Constitución política del Estado Libre y Soberano de Guerrero</th>
+            <th scope="col" style="background-color:#009aac;color: white; text-align: center;vertical-align: middle;font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol'">Constitución política del Estado Libre y Soberano de Guerrero</th>
             </tr>
             </thead>
             <tbody>
             <tr>
-            <td>Art 179. Los ayuntamientos, en el ámbito de sus respectivas competencias, están
-facultados para intervenir en la planeación del desarrollo regional.
+            <td><center>Art 179. Los ayuntamientos, en el ámbito de sus respectivas competencias, están
+facultados para intervenir en la planeación del desarrollo regional.</center>
  </td>
             </tr>
             </tbody>
@@ -172,26 +172,27 @@ facultados para intervenir en la planeación del desarrollo regional.
                <table class="table">
             <thead>
             <tr>
-            <th scope="col" colspan="3" style="background-color:white;color:#2e75b6; text-align: center;vertical-align: middle;">Ley General de Asentamientos Humanos Ordenamiento Territorial y Desarrollo
+            <th scope="col" colspan="3" style="background-color:white;color:#00b9cf; text-align: center;vertical-align: middle;font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol'";
+">Ley General de Asentamientos Humanos Ordenamiento Territorial y Desarrollo
 Urbano
 </th>
             </tr>
             </thead>
             <tbody>
             <tr>
-            <td cope="col">Art. 11: Faculta a los municipios
+            <td cope="col" style="font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol'">Art. 11: Faculta a los municipios
 para formular planes y programas
 de desarrollo urbano y
 ordenamiento territorial, centros de
 población y otros derivados de
 estos. </td>
-            <td cope="col">Art. 22: La
+            <td cope="col" style="font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol'">Art. 22: La
 planeación
 derivada de
 esta ley forma
 parte del
 SNPD.</td>
-            <td cope="col">Art. 23: La planeación del
+            <td cope="col"style="font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol'">Art. 23: La planeación del
 ordenamiento del territorio se llevará
 a cabo a través de F.V. Los planes o
 programas de Desarrollo Urbano
@@ -200,7 +201,7 @@ derivados, tales como los parciales.
             </td>
             </tr>
             <tr>
-              <th scope="col" colspan="3" style="background-color:white;color:#2e75b6; text-align: center;vertical-align: middle;">
+              <th scope="col" colspan="3" style="background-color:white;color:#00b9cf; text-align: center;vertical-align: middle;font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol'">
                Ley Número 994 de Planeación del Estado Libre y Soberano de Guerrero
 </th>
             </tr>
@@ -222,7 +223,7 @@ derivados, tales como los parciales.
             <table sty width="40%" style="text-align: center;vertical-align: middle;">
   <thead>
     <tr>
-      <th scope="col" style="background-color: #70ad47;">
+      <th scope="col" style="background-color: #75a603;font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol'">
         Sistema de Planeación Democrática del Desarrollo Nacional
       </th>
     </tr>
@@ -233,14 +234,14 @@ derivados, tales como los parciales.
 
     </tr>
     <tr>
-      <th scope="row" style="background-color: #a9d18e;">Sistema Estatal de Planeación Democrática</th>
+      <th scope="row" style="background-color: #88c800;">Sistema Estatal de Planeación Democrática</th>
 
     </tr>
     <tr>
       <th scope="row">Ley Número 994 de Planeación del Estado Libre y Soberano de Guerrero Art. 24</th>
     </tr>
        <tr>
-      <th scope="row" style="background-color: #c5e0b4;">Sistema Municipal de Planeación</th>
+      <th scope="row" style="background-color: #81bd00;">Sistema Municipal de Planeación</th>
 
     </tr>
     <tr>
@@ -255,20 +256,36 @@ derivados, tales como los parciales.
 
 
           <div class="col-lg-12 wow fadeInUp pt-4 pt-lg-0 order-2 order-lg-1">
-                    
-                  <img src="img/Proceso de elaboracion de PPDU.jpg" width="100%" alt="">
+            <br>
+                 <div class="container">
+                 <div class="row justify-content-center">
+                   <div class="col-2">
+                     </div>
+                      <div class="col-2">
+                     </div>
+                      <div class="col-2">
+                        <img src="img/icono-de-aprobacion.png" style="cursor: pointer;" width="100%" alt="" onclick="cargarDiv('#mostrarimagen','imagen1.php')">
+                      </div>
+                      <div class="col-2">
+                        <img src="img/icono-de-elaboracion.png" style="cursor: pointer;" width="112%" alt="" onclick="cargarDiv('#mostrarimagen','imagen2.php')">
+                      </div>
+                       <div class="col-2">
+                     </div>
+                      <div class="col-2">
+                     </div>
+                      
+
+                 </div>  
+
+                 <div class="row">
+                      <div class="col-lg-12" id="mostrarimagen"></div>
+                     
+                 </div> 
+                 </div>   
+                
               
           </div>
-      
-
-
-          <div class="col-lg-12 wow fadeInUp pt-4 pt-lg-0 order-2 order-lg-1">
-                        
-                  <img src="img/Proceso de aprobacion PPDU CIP.jpg" width="100%" alt="">
-           
-          </div>
-
-
+    
        
        
       </div>
@@ -286,7 +303,7 @@ derivados, tales como los parciales.
          
           <div class="col-12">
             <div class="about2-content">
-              <h2>Visión</h2>
+              <h2 style="font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol'">Visión</h2>
              
               <center><img src="img/vision.jpeg" width="55%" alt=""></center>
               <br>
@@ -304,13 +321,13 @@ derivados, tales como los parciales.
  <!-- ======= NOSOTROS ======= -->
   <section  class="about2 padd-section text-center wow fadeInUp">
 <div class="content">
-	 <h2>Etiam mollis odio id diam dictum, quis gravida massa tristique</h2>
+	 <h2 style="font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol'">Etiam mollis odio id diam dictum, quis gravida massa tristique</h2>
   	<div class="grid">
           <figure class="effect-marley">
 						<img src="img/Atractivo-turístico2.jpg" alt="img02"/>
 						<figcaption>
-							<h2>Atractivo turístico  <span>  </span></h2>
-							<p style="color:white;">Atractivo turístico </p>
+							<h2 style="font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol'">Atractivo turístico  <span>  </span></h2>
+							<p style="color:white;font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol'">Atractivo turístico </p>
 							
 						</figcaption>			
 					</figure>
@@ -319,8 +336,8 @@ derivados, tales como los parciales.
 						<figure class="effect-marley">
 						<img src="img/Ciclopista2.jpg" alt="img11"/>
 						<figcaption>
-							<h2>Ciclopista <span></span></h2>
-							<p style="color:white;">Ciclopista</p>
+							<h2 style="font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol'">Ciclopista <span></span></h2>
+							<p style="color:white;font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol'">Ciclopista</p>
 							
 					</figure>
 
@@ -330,16 +347,16 @@ derivados, tales como los parciales.
 					<figure class="effect-milo">
 						<img  src="img/Manglar2.jpg" width="50%" alt="img11"/>
 						<figcaption>
-							<h2>Manglar <span></span></h2>
-							<p style="color:white;">Manglar. </p>
+							<h2 style="font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol'">Manglar <span></span></h2>
+							<p style="color:white;font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol'">Manglar. </p>
 						
 						</figcaption>			
 					</figure>
 					<figure class="effect-milo">
 						<img src="img/Movilidad2.jpg" alt="img03"/>
 						<figcaption>
-							<h2>Movilidad <span> </span></h2>
-							<p style="color:white;">Movilidad</p>
+							<h2 style="font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol'">Movilidad <span> </span></h2>
+							<p style="color:white;font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol'">Movilidad</p>
 						
 						</figcaption>			
 					</figure>
@@ -348,16 +365,16 @@ derivados, tales como los parciales.
 					<figure class="effect-milo">
 						<img  src="img/Visión2.jpg" width="50%" alt="img11"/>
 						<figcaption>
-							<h2>Visión <span></span></h2>
-							<p style="color:white;">Visión</p>
+							<h2 style="font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol'">Visión <span></span></h2>
+							<p style="color:white;font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol'">Visión</p>
 						
 						</figcaption>			
 					</figure>
 					<figure class="effect-milo">
 						<img src="img/Vivienda2.jpg" alt="img03"/>
 						<figcaption>
-							<h2>Vivienda <span> </span></h2>
-							<p style="color:white;">Vivienda.</p>
+							<h2 style="font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol'">Vivienda <span> </span></h2>
+							<p style="color:white;font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol'">Vivienda.</p>
 						
 						</figcaption>			
 					</figure>
@@ -367,10 +384,10 @@ derivados, tales como los parciales.
   <!-- ======= NOSOTROS ======= -->
   <!--COMO TE MUEVES-->
   <section id="comotemueves" class="padd-section text-center wow fadeInUp" >
- <h2>Sondeos Encuesta De PPDU Ixtapa</h2><br>
-			<button type="button" class="btn btn-success" onclick="cargarDiv('#encdiv','encuesta1.php')">Aspectos sociodemográficos</button>&nbsp;&nbsp;&nbsp;
-<button type="button" class="btn btn-success" onclick="cargarDiv('#encdiv','encuesta2.php')">Encuesta sobre vivienda vacacional</button>&nbsp;&nbsp;&nbsp;
-<button type="button" class="btn btn-success" onclick="cargarDiv('#encdiv','encuesta3.php')">Encuesta de Movilidad</button>
+ <h2 style="color:white;font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol'">Sondeos Encuesta De PPDU Ixtapa</h2><br>
+			<button style="color:white;font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol'" type="button" class="btn btn-success" onclick="cargarDiv('#encdiv','encuesta1.php')">Aspectos sociodemográficos</button>&nbsp;&nbsp;&nbsp;
+<button style="color:white;font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol'" type="button" class="btn btn-success" onclick="cargarDiv('#encdiv','encuesta2.php')">Encuesta sobre vivienda vacacional</button>&nbsp;&nbsp;&nbsp;
+<button style="color:white;font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol'"  type="button" class="btn btn-success" onclick="cargarDiv('#encdiv','encuesta3.php')">Encuesta de Movilidad</button>
 <hr>
 <div id="encdiv"></div>
 
@@ -384,7 +401,7 @@ derivados, tales como los parciales.
 	 	 <div class="container">
 
 	 	 	 <header class="section-header">
-          <h3>Participa en tu PPDU</h3>
+          <h3 style="color:white;font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol'">Participa en tu PPDU</h3>
           <br><br>
         </header>
 
@@ -392,8 +409,8 @@ derivados, tales como los parciales.
 			 <div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-duration="1.4s">
             <div class="box">
              
-              <h4 class="title"><a style="cursor: pointer;" data-toggle="modal" data-target=".bd-example-modal-lg" >Neque porro quisquam est qui dolorem ipsum</a></h4>
-              <p class="description">
+              <h4 class="title"><a style="cursor: pointer;font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol'" data-toggle="modal" data-target=".bd-example-modal-lg" >Neque porro quisquam est qui dolorem ipsum</a></h4>
+              <p class="description" style="cursor: pointer;font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol'" >
               Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet risus eget libero placerat congue sit amet eu nisi. Vestibulum porta suscipit est, nec fringilla nunc. Donec finibus ligula urna, eget interdum justo consectetur at. 
               <br>
             <strong style="font-weight: bold">WEBINAR</strong> </p>
@@ -543,12 +560,15 @@ derivados, tales como los parciales.
   </section>
   <!--MEJORESMOS-->
   <!--PARTICIPACION-->
-  <section class="participacion has-padding text-center" id="participacion">
+
+  <!--PARTICIPACION-->
+  <!--////
+
+    <section class="participacion has-padding text-center" id="participacion">
 
 
   </section>
-  <!--PARTICIPACION-->
-  <!--//////-->
+  //-->
   <!-- ======= Call To Action Section ======= -->
 
   <!--//////-->
@@ -561,60 +581,48 @@ derivados, tales como los parciales.
       <div class="row">
         <div class="col-md-4">
           <article class="article-post">
-           
+           <a href="http://i.guerrero.gob.mx/uploads/2016/03/10.-LEY-NO.-790-DE-ASENTAMIENTOS-HUMANOS-ORD-TERR-Y-DESARROLLO-URBANO-DEL-EDO-DE-GRO.pdf" target="_blank" >
               <div class="article-image has-overlay" style="background-image: url(img/Ley-Numero-790_3.png">
                 
               </div>
+            </a>
               <figure>
                 <figcaption>
-                  <h2>Ley Número 790 de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano del Estado de Guerrero  </h2>
+                 
                 </figcaption>
               </figure>
            
-            <ul class="article-footer">
-              <li class="article-category">
-                <a href="http://i.guerrero.gob.mx/uploads/2016/03/10.-LEY-NO.-790-DE-ASENTAMIENTOS-HUMANOS-ORD-TERR-Y-DESARROLLO-URBANO-DEL-EDO-DE-GRO.pdf" target="_blank" > Descargar </a>
-              </li>
-             
-            </ul>
+            
           </article>
         </div>
         <div class="col-md-4">
           <article class="article-post">
-           
+           <a href="https://zihuatanejodeazueta.gob.mx/transparencias/PLAN_MUNICIPAL_DE_DESARROLLO_2018-2021.pdf" target="_blank">
               <div class="article-image has-overlay" style="background-image: url(img/Plan-Municipal_3.png)">
               </div>
+            </a>
               <figure>
                 <figcaption>
-                  <h2>Plan Municipal de Desarrollo Zihuatanejo</h2>
+                 
                 </figcaption>
               </figure>
             
-            <ul class="article-footer">
-              <li class="article-category">
-                <a href="https://zihuatanejodeazueta.gob.mx/transparencias/PLAN_MUNICIPAL_DE_DESARROLLO_2018-2021.pdf" target="_blank">Descargar </a>
-              </li>
-             
-            </ul>
+          
           </article>
         </div>
         <div class="col-md-4">
           <article class="article-post">
-           
+           <a href="https://zihuatanejodeazueta.gob.mx/sites/default/files/2019-08/Reglamento%20Actualizacion%20PDDU%20Zihuatanejo%20Ixtapa%202015-2030.pdf" target="_blank">
               <div class="article-image has-overlay" style="background-image: url(img/2015-2030_3.png)">
               </div>
+            </a>
               <figure>
                 <figcaption>
-                  <h2>Actualización Plan Director de Desarrollo Urbano Zihuatanejo – Ixtapa 2015- 2030</h2>
+                
                 </figcaption>
               </figure>
            
-            <ul class="article-footer">
-              <li class="article-category">
-                <a href="https://zihuatanejodeazueta.gob.mx/sites/default/files/2019-08/Reglamento%20Actualizacion%20PDDU%20Zihuatanejo%20Ixtapa%202015-2030.pdf" target="_blank">Descargar </a>
-              </li>
-             
-            </ul>
+           
           </article>
         </div>
       </div>
@@ -635,62 +643,15 @@ derivados, tales como los parciales.
       <div class="container">
         <div class="row justify-content-center">
 
-          <div class="col-md-8">
-
-            <div class="cabosemueve-content">
-              <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
-
-                <div class="carousel-inner" role="listbox">
-
-                  <div class="carousel-item  active">
-                    <div class="top-top">
-
-                      <h2>EarthCheck Certified </h2>
-                      <p>Ofrecen los resultados más eficaces de aprendizaje y cambio cultural</p>
-                      <h4>Proporciona un marco para la sostenibilidad ambiental y social.<span><a href="https://www.youtube.com/watch?v=DBZyXvgvBWA&feature=emb_logo" target="_blank">Visitar </a></span></h4>
-
-                    </div>
-                  </div>
-<!--
-                  <div class="carousel-item ">
-                    <div class="top-top">
-
-                      <h2>Mauris ac lacus nec lectus gravida feugiat. Donec ullamcorper faucibus purus</h2>
-                      <p>Phasellus semper</p>
-                      <h4>Lorem ipsum dolor<span><a href="#" target="_blank">interdum </a></span></h4>
-
-                    </div>
-                  </div>
-
-        
-
-                  <div class="carousel-item ">
-                    <div class="top-top">
-
-                      <h2>Donec volutpat volutpat libero at blandit. Maecenas mi est</h2>
-                      <p>Phasellus semper</p>
-                      <h4>Lorem ipsum dolor<span><a href="#" target="_blank">interdum </a></span></h4>
-
-                    </div>
-                  </div>
--->
-
-
+          
+            
+              <div class="row">
+                <div class="col-12">
+                  <iframe width="800" height="400" src="https://www.youtube.com/embed/DBZyXvgvBWA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 </div>
-
-                <div class="btm-btm">
-
-                  <ul class="list-unstyled carousel-indicators">
-                    <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
-                   <!-- <li data-target="#carousel-example-generic" data-slide-to="1"></li>
-                    <li data-target="#carousel-example-generic" data-slide-to="2"></li>-->
-                  </ul>
-
-                </div>
-
               </div>
-            </div>
-          </div>
+           
+          
 
         </div>
       </div>
@@ -703,7 +664,7 @@ derivados, tales como los parciales.
       <p>
        <div class="row">
         <br><br><br><br>
-      <div class="col-md-8">
+      <div class="col-md-12">
       
       <p >
                
@@ -749,18 +710,7 @@ derivados, tales como los parciales.
 
 
     </div>
-        <div class="col-md-4">
-        <br><br><br><br><br>
-        <p class="letrasoff2">
-         <br>
-        Correo: <br>
-        Teléfono:  <br>
         
-        
-
-        </p>
-
-      </div>
 <br><br><br>
   </div>
       </p>

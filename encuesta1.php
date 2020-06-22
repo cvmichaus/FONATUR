@@ -1,15 +1,15 @@
 
 
 <div class="col-md-12 wp4">
-          <h2 class="letrasoff1">Aspectos sociodemográficos<br><br>La presente encuesta es parte de los estudios de diagnóstico para la elaboración de Plan Plarcial de Desarrollo Urbano de Ixtapa, Guerrero. Sus respuestas nos ayudarán a entender las características de la sociedad en Ixtapa. Esto nos permitirá proponer estrategias que generen desarrollo económico, turístico y ambiental, mejorando la calidad de vida de la población. ¡Agradecemos mucho su participación!
+          <h2 class="letrasoff1" style="font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol'">Aspectos sociodemográficos<br><br>La presente encuesta es parte de los estudios de diagnóstico para la elaboración de Plan Plarcial de Desarrollo Urbano de Ixtapa, Guerrero. Sus respuestas nos ayudarán a entender las características de la sociedad en Ixtapa. Esto nos permitirá proponer estrategias que generen desarrollo económico, turístico y ambiental, mejorando la calidad de vida de la población. ¡Agradecemos mucho su participación!
  <br></h2>
           
         </div>
 
         <div class="col-md-12 wp4"><br><br>
-<form  id="formuploadajax" method="post"  enctype="multipart/form-data" >
+<form  id="formuploadajax" method="post"  enctype="multipart/form-data" style="font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol'" >
   
-  <h2>SECCIÓN I: PERFIL</h2><br><br>
+  <h2 style="font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol'">SECCIÓN I: PERFIL</h2><br><br>
 
   <div class="form-group row">
     <label for="problematica" class="col-sm-6 col-form-label letrasoff" style="color:white;font-weight: bolder;" >Género </label>

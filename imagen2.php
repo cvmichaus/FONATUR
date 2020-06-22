@@ -1,0 +1,1 @@
+<img src="img/Proceso-de-elaboracion2.png" width="100%" alt="">

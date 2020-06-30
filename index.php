@@ -388,6 +388,8 @@ derivados, tales como los parciales.
 			<button style="color:white;font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol'" type="button" class="btn btn-success" onclick="cargarDiv('#encdiv','encuesta1.php')">Aspectos sociodemográficos</button>&nbsp;&nbsp;&nbsp;
 <button style="color:white;font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol'" type="button" class="btn btn-success" onclick="cargarDiv('#encdiv','encuesta2.php')">Encuesta sobre vivienda vacacional</button>&nbsp;&nbsp;&nbsp;
 <button style="color:white;font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol'"  type="button" class="btn btn-success" onclick="cargarDiv('#encdiv','encuesta3.php')">Encuesta de Movilidad</button>
+&nbsp;&nbsp;
+<button style="color:white;font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol'"  type="button" class="btn btn-success" onclick="cargarDiv('#encdiv','encuesta4.php')">Encuesta de Ciclista</button>
 <hr>
 <div id="encdiv"></div>
 

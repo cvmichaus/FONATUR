@@ -54,7 +54,7 @@ li {
   font-weight: 400;
   letter-spacing: 2px;
   line-height: 30px;
-  text-transform: capitalize;
+  text-transform: initial;
 }
 
 p {
@@ -374,7 +374,6 @@ span {
 .nav-menu a {
   padding: 8px 0px;
   text-decoration: none;
-  display: inline-block;
   color: #000000;
   font-family: "Roboto", sans-serif;
   font-weight: bolder;
@@ -1949,7 +1948,6 @@ body.mobile-nav-active #mobile-nav-toggle i {
   max-width: 480px;
   max-height: 360px;
   width: 48%;
-  background: #3085a3;
   text-align: center;
   cursor: pointer;
 }
@@ -2401,7 +2399,7 @@ section.participacion:before {
  overflow:hidden;
  height:225px;
  max-height:250px;
- background-color:#000;
+ /*background-color:#000;*/
  background-repeat:no-repeat;
  background-position:center;
  background-size:cover
@@ -2417,7 +2415,7 @@ section.participacion:before {
  content:'';
  -webkit-transition:background-color 300ms;
  transition:background-color 300ms;
- background-color:rgba(65,74,82,0.6)
+ /*background-color:rgba(65,74,82,0.6)*/
 }
 .noticias select#inputArticle-Sort {
  font-size:13px;
@@ -2769,7 +2767,7 @@ input[type="number"] {
   box-shadow: 0 10px 29px 0 rgba(68, 88, 144, 0.1);
   transition: all 0.3s ease-in-out;
   text-align: center;
-  background: url(../../img/about-img.jpeg) no-repeat fixed center;
+  /*background: url(../../img/about-img.jpeg) no-repeat fixed center;*/
    -webkit-background-size: cover;
    -moz-background-size: cover;
    -o-background-size: cover;

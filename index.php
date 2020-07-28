@@ -77,7 +77,7 @@
           <li><a  href="#mejoremos"> Participa en tu PPDU </a></li>
           <li><a  href="#participacion"> Aporta </a></li>
           <li><a  href="#noticias">¡Infórmate más!</a></li>              
-          <li><a  href="#cabosemueve">¡Ixtapa Sostenible !</a></li>      
+          <li><a  href="#cabosemueve">¡Ixtapa sostenible !</a></li>      
           <li><a  href="#contactanos">¡Contáctanos!</a></li>
 <div class="progress-container">
     <div class="progress-bar" id="myBar"></div>
@@ -97,8 +97,7 @@
       <!--logo--><img src="img/fonatur_logo.png" alt="Hero Imgs" width="45%">
       <h1 style="font-size: 1.5em;color: #84c300; ">Bienvenidos </h1>
       <div style="font-size:1.2em; text-align: center; margin-right: 65px;margin-left: 52px;color: black; font-weight: bolder; background-color:rgba(236,232,232, 0.4); font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';">
-El Fondo Nacional de Fomento al Turismo en convenio con el H.Ayuntamiento Zihuatanejo de Azueta se encuentra realizando el presente Plan Parcial de Desarrollo Urbano. 
-
+El Fondo Nacional de Fomento al Turismo en convenio con el H.Ayuntamiento Zihuatanejo de Azueta se encuentra realizando el presente Plan Parcial de Desarrollo Urbano, esta pagina tiene la finalidad de invitar a los habitante de Ixtapa a participar en la elaboración del PPDU.
         <br><br></div>
       <div class="btns" >
         <a href="#" style="color: white; font-weight: bolder;"><i class="fa fa-facebook fa-3x" style="color: white; font-weight: bolder;"></i> @ppduixtapa</a>
@@ -204,6 +203,9 @@ derivados, tales como los parciales.
               <th scope="col" colspan="3" style="background-color:white;color:#00b9cf; text-align: center;vertical-align: middle;font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol'">
                Ley Número 994 de Planeación del Estado Libre y Soberano de Guerrero
 </th>
+
+
+
             </tr>
             </tbody>
             </table>
@@ -247,6 +249,12 @@ derivados, tales como los parciales.
     <tr>
       <th scope="row" >Ley Número 994 de Planeación del Estado Libre y Soberano de Guerrero Art. 30</th>
     </tr>
+ <tr>
+      <th scope="row" style="background-color: #81bd00;">Ley 790 de Asentamientos humanos, ordenamiento territorial y desarrollo urbano del Estado de Guerrero.</th>
+
+    </tr>
+
+
   </tbody>
 </table>
 </center>
@@ -318,10 +326,51 @@ derivados, tales como los parciales.
 
     </section><!-- End About Section -->
 
+    <center><h2 style="font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';text-align: center;vertical-align: middle;">Mapa de Ixtapa</h2></center>
+    <br>
+
+    <p style="font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol';text-align: center;vertical-align: middle;">
+      Indica el lugar en donde has detectado las siguientes problematicas:
+    </p>
+  
+   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/openlayers/openlayers.github.io@master/en/v6.3.1/css/ol.css" type="text/css">
+<style>
+.map {
+height: 600px;
+width: 100%;
+}
+
+#map .ol-zoomslider {
+        background-color: transparent;
+        top: 2.3em;
+      }
+</style>
+<script src="https://cdn.jsdelivr.net/gh/openlayers/openlayers.github.io@master/en/v6.3.1/build/ol.js"></script>
+<div id="map" class="map"></div>
+    <script type="text/javascript">
+      var map = new ol.Map({
+        target: 'map',
+        layers: [
+          new ol.layer.Tile({
+            source: new ol.source.OSM()
+          })
+        ],
+        view: new ol.View({
+          center: ol.proj.fromLonLat([-101.6034516,17.6703839]),
+          zoom: 14
+        })
+
+        
+      });
+
+
+    </script>
+
+
  <!-- ======= NOSOTROS ======= -->
   <section  class="about2 padd-section text-center wow fadeInUp">
 <div class="content">
-	 <h2 style="font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol'">Etiam mollis odio id diam dictum, quis gravida massa tristique</h2>
+	 <h2 style="font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol'">Visita Ixtapa</h2>
   	<div class="grid">
           <figure class="effect-marley">
 						<img src="img/Atractivo-turístico2.jpg" alt="img02"/>
@@ -403,19 +452,19 @@ derivados, tales como los parciales.
 	 	 <div class="container">
 
 	 	 	 <header class="section-header">
-          <h3 style="color:white;font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol'">Participa en tu PPDU</h3>
+          <h3 style="color:#000;font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol'">Participa en tu PPDU</h3>
           <br><br>
         </header>
 
         <div class="row">
-			 <div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-duration="1.4s">
+			 <div class="col-md-3 col-lg-3 wow bounceInUp" data-wow-duration="1.4s">
             <div class="box">
              
-              <h4 class="title"><a style="cursor: pointer;font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol'" data-toggle="modal" data-target=".bd-example-modal-lg" >Neque porro quisquam est qui dolorem ipsum</a></h4>
+              <h4 class="title"><a style="cursor: pointer;font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol'" data-toggle="modal" data-target=".bd-example-modal-lg" >Movilidad</a></h4>
               <p class="description" style="cursor: pointer;font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol'" >
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet risus eget libero placerat congue sit amet eu nisi. Vestibulum porta suscipit est, nec fringilla nunc. Donec finibus ligula urna, eget interdum justo consectetur at. 
+         Etiam mollis odio id diam dictum, quis gravida massa tristique. Maecenas laoreet congue leo et auctor. Etiam bibendum urna non ex efficitur, et varius nulla rhoncus
               <br>
-            <strong style="font-weight: bold">WEBINAR</strong> </p>
+            <strong style="font-weight: bold">TALLER</strong> </p>
             </div>
           </div>
 		
@@ -456,13 +505,13 @@ derivados, tales como los parciales.
 
             <!--SMALL MODAL AVISOS-->
 
-              <div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-delay="0.1s" data-wow-duration="1.4s">
+              <div class="col-md-3 col-lg-3 wow bounceInUp" data-wow-delay="0.1s" data-wow-duration="1.4s">
             <div class="box">
-                           <h4 class="title"><a data-toggle="modal" data-target="#myModal2" style="cursor: pointer;" >Phasellus et mattis arcu 2</a></h4>
+                           <h4 class="title"><a data-toggle="modal" data-target="#myModal2" style="cursor: pointer;" >Turismo</a></h4>
               <p class="description">
                 Etiam mollis odio id diam dictum, quis gravida massa tristique. Maecenas laoreet congue leo et auctor. Etiam bibendum urna non ex efficitur, et varius nulla rhoncus
                  <br>
-                  <strong style="font-weight: bold">WEBINAR</strong>
+                  <strong style="font-weight: bold">TALLER</strong>
               </p>
             </div>
 
@@ -505,18 +554,67 @@ derivados, tales como los parciales.
           </div>
 
 
-            <div class="col-md-6 col-lg-4 wow bounceInUp" data-wow-delay="0.1s" data-wow-duration="1.4s">
+            <div class="col-md-3 col-lg-3 wow bounceInUp" data-wow-delay="0.1s" data-wow-duration="1.4s">
             <div class="box">
-                           <h4 class="title"><a data-toggle="modal" data-target="#myModal3" style="cursor: pointer;" >Phasellus et mattis arcu 3</a></h4>
+                           <h4 class="title"><a data-toggle="modal" data-target="#myModal3" style="cursor: pointer;font-size: 16px;" >Medio Ambiente</a></h4>
               <p class="description">
                Etiam mollis odio id diam dictum, quis gravida massa tristique. Maecenas laoreet congue leo et auctor. Etiam bibendum urna non ex efficitur, et varius nulla rhoncus
                  <br>
-                  <strong style="font-weight: bold">WEBINAR</strong>
+                  <strong style="font-weight: bold">TALLER</strong>
               </p>
             </div>
 
                       <!-- Modal4 -->
 <div id="myModal3"  class="modal fade bd-example-modal-sm" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" aria-hidden="true" >
+ <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+              <div class="modal-header">
+        <h3 class="modal-title"> Etiam mollis odio id diam dictum, quis gravida massa tristique 3</h3>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+              <div class="row">
+                <div class="col-12">
+                  <iframe width="800" height="400" src="https://www.youtube.com/embed/poxXIhJ8WlI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+                </div>
+              </div>
+              <div class="row">
+                <div class="col-6">
+                  <a href="#" target="_blank"><img src="img/iconfinder_file-pdf_285666.png" width="20%"></a>
+                  <a href="#" target="_blank" class="letrasoff2"><p> Etiam mollis odio id diam dictum, quis gravida massa tristique</p></a>
+                </div>
+                 <div class="col-6">
+                     <a href="#" target="_blank"><img src="img/iconfinder_file-pdf_285666.png" width="20%"></a>
+                  <a href="#" target="_blank" class="letrasoff2"><p>Webinar 3 Etiam mollis odio id diam dictum, quis gravida massa tristique</p></a>
+                 </div>
+              </div>
+              <div class="modal-footer">
+        
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+      </div>
+            </div>
+            </div>
+  </div>
+
+<!-- Modal4 -->
+
+          </div>
+
+
+            <div class="col-md-3 col-lg-3 wow bounceInUp" data-wow-delay="0.1s" data-wow-duration="1.4s">
+            <div class="box">
+                           <h4 class="title"><a data-toggle="modal" data-target="#myModal5" style="cursor: pointer;" >Riesgo</a></h4>
+              <p class="description">
+               Etiam mollis odio id diam dictum, quis gravida massa tristique. Maecenas laoreet congue leo et auctor. Etiam bibendum urna non ex efficitur, et varius nulla rhoncus
+                 <br>
+                  <strong style="font-weight: bold">TALLER</strong>
+              </p>
+            </div>
+
+                      <!-- Modal4 -->
+<div id="myModal4"  class="modal fade bd-example-modal-sm" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" aria-hidden="true" >
  <div class="modal-dialog modal-lg">
             <div class="modal-content">
               <div class="modal-header">
@@ -584,7 +682,7 @@ derivados, tales como los parciales.
         <div class="col-md-4">
           <article class="article-post">
            <a href="http://i.guerrero.gob.mx/uploads/2016/03/10.-LEY-NO.-790-DE-ASENTAMIENTOS-HUMANOS-ORD-TERR-Y-DESARROLLO-URBANO-DEL-EDO-DE-GRO.pdf" target="_blank" >
-              <div class="article-image has-overlay" style="background-image: url(img/Ley-Numero-790_3.png">
+              <div class="article-image has-overlay" style="background-image: url(img/Ley-Numero-790_2.png">
                 
               </div>
             </a>
@@ -600,7 +698,7 @@ derivados, tales como los parciales.
         <div class="col-md-4">
           <article class="article-post">
            <a href="https://zihuatanejodeazueta.gob.mx/transparencias/PLAN_MUNICIPAL_DE_DESARROLLO_2018-2021.pdf" target="_blank">
-              <div class="article-image has-overlay" style="background-image: url(img/Plan-Municipal_3.png)">
+              <div class="article-image has-overlay" style="background-image: url(img/Plan-Municipal_2.png)">
               </div>
             </a>
               <figure>
@@ -615,7 +713,7 @@ derivados, tales como los parciales.
         <div class="col-md-4">
           <article class="article-post">
            <a href="https://zihuatanejodeazueta.gob.mx/sites/default/files/2019-08/Reglamento%20Actualizacion%20PDDU%20Zihuatanejo%20Ixtapa%202015-2030.pdf" target="_blank">
-              <div class="article-image has-overlay" style="background-image: url(img/2015-2030_3.png)">
+              <div class="article-image has-overlay" style="background-image: url(img/2015-2030_2.png)">
               </div>
             </a>
               <figure>
@@ -674,7 +772,7 @@ derivados, tales como los parciales.
 
   <h4 style="font-family: ITC;font-size: 1.2em;"> </h4><br><br>
     <div class="form-group row">
-    <label for="Nombre" class="col-sm-2 col-form-label" >Nombre Completo</label>
+    <label for="Nombre" class="col-sm-2 col-form-label" >Nombre completo</label>
     <div class="col-sm-10">
     <input type="text" class="form-control" id="Nombre" name="Nombre">
     </div>
@@ -682,7 +780,7 @@ derivados, tales como los parciales.
 
     
     <div class="form-group row">
-    <label for="Email" class="col-sm-2 col-form-label" >Correo Electrónico </label>
+    <label for="Email" class="col-sm-2 col-form-label" >Correo electrónico </label>
     <div class="col-sm-10">
     <input type="text" class="form-control letrasoff"  id="Email" name="Email">
     </div>
